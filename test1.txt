@@ -1,0 +1,2 @@
+class UserPass():
+    def __init__(self):

@@ -1,0 +1,4 @@
+users = {
+    "user1": {"username": "colonh", "password": "admin1"},
+    "user2": {"username": "coombss", "password": "admin2"},
+}
